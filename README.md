@@ -2,9 +2,13 @@
 
 * Descarga el codigo
  
- nmp install
+ * Ejecuta en consola (para descargar los paquetes)
  
- * ejecuta en consola
+ npm install
+ 
+ * ejecuta en consola (para ejecutar el proyecto)
  
  node app.js
+ 
+ /api/
  
