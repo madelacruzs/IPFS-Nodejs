@@ -21,4 +21,7 @@
      Postman-Token: 91449df6-f1bc-46fe-8601-0652f494bf56
 
      file64=BASE64-FILE&fileName=hola.jpg
+     
+     
+Puedes cargar imagenes a IPFS desde el navegador aquí = http://blockchain-monterrey.000webhostapp.com/IPFS/index.html
  
