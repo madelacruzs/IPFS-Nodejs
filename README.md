@@ -2,11 +2,11 @@
 
 - Descarga el codigo
 
-$ git clone https://github.com/madelacruzs/IPFS-Nodejs.git
+       $ git clone https://github.com/madelacruzs/IPFS-Nodejs.git
  
  - Ejecuta en consola (para descargar los paquetes)
  
- npm install
+        npm install
  
  - ejecuta en consola (para ejecutar el proyecto)
  
