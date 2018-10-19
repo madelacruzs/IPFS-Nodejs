@@ -2,7 +2,7 @@ var ipfsAPI = require('ipfs-api')
 
 // connect to ipfs daemon API server
 var ipfs = ipfsAPI('ipfs.infura.io', '5001', {protocol: 'https'});
-var URL_IPFS = "https://ipfs.infura.io/ipfs/";
+var URL_IPFS = "https://ipfs.io/ipfs/";
 
 
 exports.upload_toIPFS = function(req, res) {
@@ -44,3 +44,5 @@ exports.download_fromIPFS = function(req, res) {
         res.status(200).send(response);
     });
 };
+
+
