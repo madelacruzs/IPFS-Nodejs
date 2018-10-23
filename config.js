@@ -1,5 +1,5 @@
 module.exports = {
-    MONGODB: "mongodb://jwt:privasee2018*@ds037488.mlab.com:37488/jwt-privasee",
+    MONGODB: "mongodb://jwt:@.mlab.com:37488/jwt-privasee",
     jwt: {
         secret_key: "12345qwerty"
     },
