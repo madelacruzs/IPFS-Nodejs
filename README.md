@@ -23,5 +23,7 @@
      file64=BASE64-FILE&fileName=hola.jpg
      
      
-Puedes cargar imagenes a IPFS desde el navegador aquí = http://blockchain-monterrey.000webhostapp.com/IPFS/index.html
+Puedes cargar imagenes a IPFS desde el navegador aquí = https://madelacruzs.github.io/IPFS/index.html
+
+Servicio REST disponible en: https://blockchain-monterrey.herokuapp.com/api/ipfs/
  
